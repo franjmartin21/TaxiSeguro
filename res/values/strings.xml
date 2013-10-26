@@ -7,4 +7,6 @@
 
     <!-- STRINGS PARA TaxiPlateActivity -->
     <string name="plate_label">Matrícula</string>
+    <string name="title_activity_restloader">RESTLoaderActivity</string>
+
 </resources>
